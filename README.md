@@ -97,11 +97,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dilwag-singh-mohanta-240a33290/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dilwagsm@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_d.il.u____/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/dilwagsingh.mohanta"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-Dilwagsingh Mohanta-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dilwag-singh-mohanta-240a33290/"><img src="https://img.shields.io/badge/-Dilwagsingh Mohanta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dilwagsm@gmail.com"><img src="https://img.shields.io/badge/-Dilwagsingh Mohanta?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_d.il.u____/"><img src="https://img.shields.io/badge/-Dilwagsingh Mohanta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/dilwagsingh.mohanta"><img src="https://img.shields.io/badge/-Dilwagsingh Mohanta-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
