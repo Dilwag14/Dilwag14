@@ -20,9 +20,17 @@
 ✉️ &nbsp;You can shoot me an email at dilwagsm@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/10s4zQailT41eZkdzQ0k7l6oE4icJ7IDT/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
+## 👨‍💻 Digital Craftsman (Data Scientist • ML Engineer • Problem Solver)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+```text
+██████╗ ██╗██╗     ██╗    ██╗ █████╗  ██████╗      ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+██╔══██╗██║██║     ██║    ██║██╔══██╗██╔════╝      ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+██║  ██║██║██║     ██║ █╗ ██║███████║██║  ███╗     ███████╗██║██╔██╗ ██║██║  ███╗███████║
+██║  ██║██║██║     ██║███╗██║██╔══██║██║   ██║     ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+██████╔╝██║███████╗╚███╔███╔╝██║  ██║╚██████╔╝     ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+╚═════╝ ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝      ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 
+```
 ### 🛠 &nbsp;Tech Stack
 
 ## 🚀 Programming Languages
