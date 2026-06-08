@@ -1,7 +1,7 @@
 <img width="1001" height="499" alt="Your paragraph text" src="https://github.com/user-attachments/assets/9491a44a-5754-4914-830b-46a7a4d1330b" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=800&height=50&lines=Hello%2C+I'm+Dilwag+Singh+Mohanta;Aspiring+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast;Power+BI+%26+Data+Analytics;Full+Stack+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=800&height=50&lines=Hello%2C+I'm+;Aspiring+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast;Power+BI+%26+Data+Analytics;Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Dilwag Singh Mohanta</h2>
